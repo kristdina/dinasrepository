@@ -1,0 +1,16 @@
+C:\Users\Dina Kristiņa\Desktop\C#\DinasProject\DinasProject\bin\Debug\net5.0\DinasProject.exe
+C:\Users\Dina Kristiņa\Desktop\C#\DinasProject\DinasProject\bin\Debug\net5.0\DinasProject.deps.json
+C:\Users\Dina Kristiņa\Desktop\C#\DinasProject\DinasProject\bin\Debug\net5.0\DinasProject.runtimeconfig.json
+C:\Users\Dina Kristiņa\Desktop\C#\DinasProject\DinasProject\bin\Debug\net5.0\DinasProject.runtimeconfig.dev.json
+C:\Users\Dina Kristiņa\Desktop\C#\DinasProject\DinasProject\bin\Debug\net5.0\DinasProject.dll
+C:\Users\Dina Kristiņa\Desktop\C#\DinasProject\DinasProject\bin\Debug\net5.0\ref\DinasProject.dll
+C:\Users\Dina Kristiņa\Desktop\C#\DinasProject\DinasProject\bin\Debug\net5.0\DinasProject.pdb
+C:\Users\Dina Kristiņa\Desktop\C#\DinasProject\DinasProject\obj\Debug\net5.0\DinasProject.csproj.AssemblyReference.cache
+C:\Users\Dina Kristiņa\Desktop\C#\DinasProject\DinasProject\obj\Debug\net5.0\DinasProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dina Kristiņa\Desktop\C#\DinasProject\DinasProject\obj\Debug\net5.0\DinasProject.AssemblyInfoInputs.cache
+C:\Users\Dina Kristiņa\Desktop\C#\DinasProject\DinasProject\obj\Debug\net5.0\DinasProject.AssemblyInfo.cs
+C:\Users\Dina Kristiņa\Desktop\C#\DinasProject\DinasProject\obj\Debug\net5.0\DinasProject.csproj.CoreCompileInputs.cache
+C:\Users\Dina Kristiņa\Desktop\C#\DinasProject\DinasProject\obj\Debug\net5.0\DinasProject.dll
+C:\Users\Dina Kristiņa\Desktop\C#\DinasProject\DinasProject\obj\Debug\net5.0\ref\DinasProject.dll
+C:\Users\Dina Kristiņa\Desktop\C#\DinasProject\DinasProject\obj\Debug\net5.0\DinasProject.pdb
+C:\Users\Dina Kristiņa\Desktop\C#\DinasProject\DinasProject\obj\Debug\net5.0\DinasProject.genruntimeconfig.cache
